@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "front": "webpack",
+    "server": "json-server db.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
